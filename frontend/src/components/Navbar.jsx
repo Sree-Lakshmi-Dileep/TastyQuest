@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <nav>
-      <div style={{ backgroundColor: "#097531", display: "flex", justifyContent: "space-between", alignItems: "center", padding: "10px 20px",height:"6rem" }}>
+      <div style={{ backgroundColor: "#d4b922ff", display: "flex", justifyContent: "space-between", alignItems: "center", padding: "10px 20px",height:"6rem" }}>
         
         <div>
           <h2 style={{ color: "#fff", margin: 0 ,fontSize:"2.8rem"}}>TastyQuest</h2>
